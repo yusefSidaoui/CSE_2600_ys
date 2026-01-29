@@ -14,3 +14,4 @@ data
 *.pdf
 example.db
 .DS_Store
+.ipynb_checkpoints
